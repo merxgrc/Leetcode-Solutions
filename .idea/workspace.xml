@@ -30,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Marcos Garcia/Desktop/Summer_2024/Python/Leetcode_Palindrome_Number",
+    "last_opened_file_path": "C:/Users/Marcos Garcia/Desktop/Summer_2024/Python/Leetcode-Solutions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +39,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marcos Garcia\Desktop\Summer_2024\Python\Leetcode-Solutions" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Leetcode_Palindrome_Number" />
@@ -72,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716419290655</updated>
       <workItem from="1716419291704" duration="1497000" />
-      <workItem from="1717272656198" duration="4839000" />
+      <workItem from="1717272656198" duration="5148000" />
     </task>
     <servers />
   </component>
